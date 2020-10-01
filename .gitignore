@@ -1,0 +1,9 @@
+output.txt
+build/
+nbproject/
+out/
+*.iml
+*.iws
+*.xml
+manifest.mf
+output.txt
